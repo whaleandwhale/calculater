@@ -46,7 +46,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
         BtnSign = (Button) findViewById(R.id.BtnSign);
         Btn0 = (Button) findViewById(R.id.Btn0);
         BtnPoint = (Button) findViewById(R.id.BtnPoint);
-        BtnEqual = (Button) findViewById(R.id.btn24);
+        BtnEqual = (Button) findViewById(R.id.BtnEqual);
         text = (EditText) findViewById(R.id.text);
         BtnRooting.setOnClickListener(this);
         BtnSquare.setOnClickListener(this);
